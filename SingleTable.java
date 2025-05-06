@@ -14,7 +14,7 @@ public class SingleTable
     { 
         return seats;
     }
-    \
+    
     public int getHeight()
     { 
         return height;
